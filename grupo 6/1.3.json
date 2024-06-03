@@ -1,0 +1,16 @@
+{
+    "produtos":[
+        {
+            "id": 1,
+            "nome": "Roteador",
+            "preco":99.99,
+            "descricao":"Roteador de alta velocidade"
+        },
+        {
+            "id": 2,
+            "nome": "Switch",
+            "preco":49.99,
+            "descricao":"switch com 8 portas"  
+        }
+    ]
+}

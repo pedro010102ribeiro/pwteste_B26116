@@ -1,0 +1,40 @@
+{
+    "atores": [
+      {
+        "id": 1,
+        "nome": "Tom Hanks",
+        "filmes": [
+          {
+            "id": 1,
+            "titulo": "Forrest Gump",
+            "ano": 1994,
+            "genero": "Drama"
+          },
+          {
+            "id": 2,
+            "titulo": "O Resgate do Soldado Ryan",
+            "ano": 1998,
+            "genero": "Guerra"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nome": "Leonardo DiCaprio",
+        "filmes": [
+          {
+            "id": 3,
+            "titulo": "Titanic",
+            "ano": 1997,
+            "genero": "Romance"
+          },
+          {
+            "id": 4,
+            "titulo": "O Lobo de Wall Street",
+            "ano": 2013,
+            "genero": "Drama"
+          }
+        ]
+      }
+    ]
+  }

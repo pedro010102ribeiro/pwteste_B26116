@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atores>
+  <ator id="1">
+    <nome>Tom Hanks</nome>
+    <filmes>
+      <filme id="1">
+        <titulo>Forrest Gump</titulo>
+        <ano>1994</ano>
+        <genero>Drama</genero>
+      </filme>
+      <filme id="2">
+        <titulo>O Resgate do Soldado Ryan</titulo>
+        <ano>1998</ano>
+        <genero>Guerra</genero>
+      </filme>
+    </filmes>
+  </ator>
+  <ator id="2">
+    <nome>Leonardo DiCaprio</nome>
+    <filmes>
+      <filme id="3">
+        <titulo>Titanic</titulo>
+        <ano>1997</ano>
+        <genero>Romance</genero>
+      </filme>
+      <filme id="4">
+        <titulo>O Lobo de Wall Street</titulo>
+        <ano>2013</ano>
+        <genero>Drama</genero>
+      </filme>
+    </filmes>
+  </ator>
+</atores>
